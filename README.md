@@ -30,4 +30,4 @@ I used the provided `cleaned_superstore (1).csv` dataset, which contains sales r
 - `cleaned_superstore (1).csv` (dataset)
 - `Dashboard design.pdf` (dashboard image/export)
 - `Insights.txt` (summary of key insights)
-- 'READMEmd' (This file)
+- 'README.md' (This file)
