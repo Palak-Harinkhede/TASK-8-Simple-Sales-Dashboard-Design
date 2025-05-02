@@ -1,0 +1,6 @@
+📊 Insights
+1️⃣ Central region leads all regions with approximately 2.8M in total sales, significantly ahead of other regions.
+2️⃣ Technology category is the top-performing product category, contributing around 37.5% of total sales.
+3️⃣ Monthly sales show steady growth, with noticeable peaks around June and September.
+4️⃣ Applying regional and category filters reveals that certain regions (like South) have stronger performance in specific categories like Furniture.
+
